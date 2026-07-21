@@ -734,5 +734,12 @@
     "monto": 200,
     "cat": "Mano de obra",
     "editing": false
+  },
+  {
+    "id": 93,
+    "fecha": "2026-07-18",
+    "concepto": "RAFA LE DA A ELIAN EN BALLINAS",
+    "monto": 4000,
+    "cat": "Mano de obra"
   }
 ]
