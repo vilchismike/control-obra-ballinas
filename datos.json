@@ -3,21 +3,21 @@
     "id": 1,
     "fecha": "2026-05-12",
     "concepto": "Pago pretensur bloks para casa fortin Eloy",
-    "monto": 2380.0,
+    "monto": 2380,
     "cat": "Materiales"
   },
   {
     "id": 2,
     "fecha": "2026-05-12",
     "concepto": "Pago de flete para llevar block a casa de fortin",
-    "monto": 800.0,
+    "monto": 800,
     "cat": "Materiales"
   },
   {
     "id": 3,
     "fecha": "2026-05-12",
     "concepto": "Fix ferreteria para casa fortin Toques",
-    "monto": 668.0,
+    "monto": 668,
     "cat": "Materiales"
   },
   {
@@ -38,119 +38,119 @@
     "id": 6,
     "fecha": "2026-05-13",
     "concepto": "Ferreteria Job material Eloy fortin",
-    "monto": 3430.0,
+    "monto": 3430,
     "cat": "Materiales"
   },
   {
     "id": 7,
     "fecha": "2026-05-13",
     "concepto": "ELOY PIDIO DINERO DE MANO DE OBRA",
-    "monto": 3000.0,
+    "monto": 3000,
     "cat": "Mano de obra"
   },
   {
     "id": 8,
     "fecha": "2026-05-13",
     "concepto": "MATERIALES DE CASA BALLINAS FORTIN PARA ELECTRICISTA",
-    "monto": 940.0,
+    "monto": 940,
     "cat": "Materiales"
   },
   {
     "id": 9,
     "fecha": "2026-05-14",
     "concepto": "MATERIALES DE CASA BALLINAS FORTIN PARA ELECTRICISTA",
-    "monto": 2070.0,
+    "monto": 2070,
     "cat": "Materiales"
   },
   {
     "id": 10,
     "fecha": "2026-05-14",
     "concepto": "TOKES PIDIO DINERO DE MANO DE OBRA",
-    "monto": 1000.0,
+    "monto": 1000,
     "cat": "Mano de obra"
   },
   {
     "id": 11,
     "fecha": "2026-05-15",
     "concepto": "ELOY MATERIALES CASA BALLINAS FORTIN",
-    "monto": 1379.0,
+    "monto": 1379,
     "cat": "Materiales"
   },
   {
     "id": 12,
     "fecha": "2026-05-16",
     "concepto": "TOKES PIDIO DINERO DE MANO DE OBRA",
-    "monto": 3500.0,
+    "monto": 3500,
     "cat": "Mano de obra"
   },
   {
     "id": 13,
     "fecha": "2026-05-16",
     "concepto": "ELOY PIDIO DINERO DE MANO DE OBRA",
-    "monto": 6500.0,
+    "monto": 6500,
     "cat": "Materiales"
   },
   {
     "id": 14,
     "fecha": "2026-05-16",
     "concepto": "ELOY PIDIO DINERO DE MANO DE OBRA PARA HERRERO QUE FUE A SOLDAR MONTENES",
-    "monto": 2500.0,
+    "monto": 2500,
     "cat": "Mano de obra"
   },
   {
     "id": 15,
     "fecha": "2026-05-18",
     "concepto": "PAGO COMEX SELLADOR PARA CAS BALLINAS FORTIN",
-    "monto": 2342.0,
+    "monto": 2342,
     "cat": "Materiales"
   },
   {
     "id": 16,
     "fecha": "2026-05-18",
     "concepto": "MATERIAL PARA TOKES CASA BALLINAS",
-    "monto": 764.0,
+    "monto": 764,
     "cat": "Materiales"
   },
   {
     "id": 17,
     "fecha": "2026-05-19",
     "concepto": "ELOY PIDIO MATERIAL PARA LA OBRA DE BALLINAS",
-    "monto": 1810.0,
+    "monto": 1810,
     "cat": "Materiales"
   },
   {
     "id": 18,
     "fecha": "2026-05-22",
     "concepto": "ME PIDIO DINERO, LE HICE TRANSFERENCIA",
-    "monto": 1500.0,
+    "monto": 1500,
     "cat": "Mano de obra"
   },
   {
     "id": 19,
     "fecha": "2026-05-22",
     "concepto": "RAFA COMPRA MATERIAL EN JOB",
-    "monto": 2390.0,
+    "monto": 2390,
     "cat": "Materiales"
   },
   {
     "id": 20,
     "fecha": "2026-05-22",
     "concepto": "RAFA LE DA A ELOY PARA MANO DE OBRA",
-    "monto": 15000.0,
+    "monto": 15000,
     "cat": "Mano de obra"
   },
   {
     "id": 21,
     "fecha": "2026-05-22",
     "concepto": "RAFA LE DA A TOKES PARA MANO DE OBRA",
-    "monto": 3500.0,
+    "monto": 3500,
     "cat": "Mano de obra"
   },
   {
     "id": 22,
     "fecha": "2026-05-23",
     "concepto": "ELOY PIDIO METERIAL PARA BALLINAS",
-    "monto": 1261.0,
+    "monto": 1261,
     "cat": "Materiales"
   },
   {
@@ -164,14 +164,14 @@
     "id": 24,
     "fecha": "2026-05-25",
     "concepto": "PAGO COMEX PARA CASA BALLINAS",
-    "monto": 2874.0,
+    "monto": 2874,
     "cat": "Materiales"
   },
   {
     "id": 25,
     "fecha": "2026-05-25",
     "concepto": "PAGO JOB MATERIAL PARA CASA BALLINAS",
-    "monto": 1810.0,
+    "monto": 1810,
     "cat": "Materiales"
   },
   {
@@ -192,56 +192,56 @@
     "id": 28,
     "fecha": "2026-05-29",
     "concepto": "IMPER PARA CASA BALLINAS",
-    "monto": 1418.0,
+    "monto": 1418,
     "cat": "Materiales"
   },
   {
     "id": 29,
     "fecha": "2026-05-29",
     "concepto": "TRUPPER DISCOS PARA PORCELANATOS",
-    "monto": 310.0,
+    "monto": 310,
     "cat": "Materiales"
   },
   {
     "id": 30,
     "fecha": "2026-05-29",
     "concepto": "FERRE TORRALBA YESO",
-    "monto": 300.0,
+    "monto": 300,
     "cat": "Materiales"
   },
   {
     "id": 31,
     "fecha": "2026-05-29",
     "concepto": "FLETE PARA LLEVAR EL PISO A BALLINAS",
-    "monto": 500.0,
+    "monto": 500,
     "cat": "Materiales"
   },
   {
     "id": 32,
     "fecha": "2026-05-30",
     "concepto": "RAFA LE LLEVO DINERO A ELOY",
-    "monto": 15000.0,
+    "monto": 15000,
     "cat": "Mano de obra"
   },
   {
     "id": 33,
     "fecha": "2026-06-01",
     "concepto": "PAGO DE BULTOS DE JUNTA PARA PISO",
-    "monto": 597.0,
+    "monto": 597,
     "cat": "Materiales"
   },
   {
     "id": 34,
     "fecha": "2026-06-01",
     "concepto": "TARJA PARA COCINA CASA BALLINAS",
-    "monto": 1378.0,
+    "monto": 1378,
     "cat": "Materiales"
   },
   {
     "id": 35,
     "fecha": "2026-06-01",
     "concepto": "MATERIALES EN FERRETERIA JOB ESTUCO Y ARENA",
-    "monto": 1708.0,
+    "monto": 1708,
     "cat": "Materiales"
   },
   {
@@ -262,35 +262,35 @@
     "id": 38,
     "fecha": "2026-06-06",
     "concepto": "RAFA LE FUE A DEJAR DINERO AL ARQUI EN BALLINAS",
-    "monto": 15000.0,
+    "monto": 15000,
     "cat": "Mano de obra"
   },
   {
     "id": 39,
     "fecha": "2026-06-06",
     "concepto": "PAGO DE PISO REINA AZULEJOS PARA CASA BALLINAS",
-    "monto": 556.0,
+    "monto": 556,
     "cat": "Materiales"
   },
   {
     "id": 40,
     "fecha": "2026-06-06",
     "concepto": "BULTO DE PEGA AZULEJO COMPRADO EN JOB PARA BALLINAS",
-    "monto": 344.0,
+    "monto": 344,
     "cat": "Materiales"
   },
   {
     "id": 41,
     "fecha": "2026-06-10",
     "concepto": "LLAVE DE NARIZ PARA TARJA DE COCINA - BALLINAS",
-    "monto": 239.0,
+    "monto": 239,
     "cat": "Materiales"
   },
   {
     "id": 42,
     "fecha": "2026-06-10",
     "concepto": "REGADERA PARA BALLO CON LLAVES - BALLINAS",
-    "monto": 460.0,
+    "monto": 460,
     "cat": "Materiales"
   },
   {
@@ -304,336 +304,343 @@
     "id": 44,
     "fecha": "2026-06-10",
     "concepto": "PROTECCIONES DE 2 VENTANAS",
-    "monto": 3500.0,
+    "monto": 3500,
     "cat": "Materiales"
   },
   {
     "id": 45,
     "fecha": "2026-06-10",
     "concepto": "PAGO CASA CONSTRUCTOR MATERIAL BALLINAS",
-    "monto": 1178.0,
+    "monto": 1178,
     "cat": "Materiales"
   },
   {
     "id": 46,
     "fecha": "2026-06-10",
     "concepto": "PAGO CASA CONSTRUCTOR MATERIAL BALLINAS",
-    "monto": 911.0,
+    "monto": 911,
     "cat": "Materiales"
   },
   {
     "id": 47,
     "fecha": "2026-06-11",
     "concepto": "PAGO TAZA DE BAÑO BALLINAS",
-    "monto": 2142.0,
+    "monto": 2142,
     "cat": "Materiales"
   },
   {
     "id": 48,
     "fecha": "2026-06-13",
     "concepto": "MANO DE OBRA DE ELOY - BALLINAS",
-    "monto": 10000.0,
+    "monto": 10000,
     "cat": "Mano de obra"
   },
   {
     "id": 49,
     "fecha": "2026-06-13",
     "concepto": "Pago Casa del Constructor plomeria Casa Ballinas Eloy",
-    "monto": 565.0,
+    "monto": 565,
     "cat": "Materiales"
   },
   {
     "id": 50,
     "fecha": "2026-06-13",
     "concepto": "Plasticos El Oso Para casa Ballinas Eloy",
-    "monto": 260.0,
+    "monto": 260,
     "cat": "Materiales"
   },
   {
     "id": 51,
     "fecha": "2026-06-13",
     "concepto": "Articulos de Limpieza 5 lts de acido y jergas Ballinas Eloy",
-    "monto": 185.0,
+    "monto": 185,
     "cat": "Materiales"
   },
   {
     "id": 52,
     "fecha": "2026-06-13",
     "concepto": "Pagoferreteria Fix Casa Ballinas Eloy",
-    "monto": 95.0,
+    "monto": 95,
     "cat": "Materiales"
   },
   {
     "id": 53,
     "fecha": "2026-06-13",
     "concepto": "Pago Comex Fortin Esmalte negro Casa Ballinas Eloy",
-    "monto": 444.0,
+    "monto": 444,
     "cat": "Materiales"
   },
   {
     "id": 54,
     "fecha": "2026-06-15",
     "concepto": "Pago Comex para casa Ballinas Eloy",
-    "monto": 131.0,
+    "monto": 131,
     "cat": "Materiales"
   },
   {
     "id": 55,
     "fecha": "2026-06-15",
     "concepto": "Pago Trupper para casa ballinas Eloy",
-    "monto": 24.0,
+    "monto": 24,
     "cat": "Materiales"
   },
   {
     "id": 56,
     "fecha": "2026-06-16",
     "concepto": "El centenario Para casa ballinas Eloy",
-    "monto": 100.0,
+    "monto": 100,
     "cat": "Materiales"
   },
   {
     "id": 57,
     "fecha": "2026-06-16",
     "concepto": "Pago Luz casa Ballinas",
-    "monto": 114.0,
+    "monto": 114,
     "cat": "Materiales"
   },
   {
     "id": 58,
     "fecha": "2026-06-17",
     "concepto": "Interceramic Para casa Ballinas Eloy",
-    "monto": 199.0,
+    "monto": 199,
     "cat": "Materiales"
   },
   {
     "id": 59,
     "fecha": "2026-06-17",
     "concepto": "2 Lts acido para casa ballinas Eloy",
-    "monto": 50.0,
+    "monto": 50,
     "cat": "Materiales"
   },
   {
     "id": 60,
     "fecha": "2026-06-17",
     "concepto": "LAMPARAS PARA EXTERIOR DE BALLINAS",
-    "monto": 633.0,
+    "monto": 633,
     "cat": "Materiales"
   },
   {
     "id": 61,
     "fecha": "2026-06-19",
     "concepto": "COMPRA DE CRISTALES E INSTALACION EN TODAS LAS VENTANAS",
-    "monto": 4500.0,
+    "monto": 4500,
     "cat": "Materiales"
   },
   {
     "id": 62,
     "fecha": "2026-06-19",
     "concepto": "PROTECCIONES DE 2 VENTANAS - PAGO RESTANTE",
-    "monto": 1900.0,
+    "monto": 1900,
     "cat": "Materiales"
   },
   {
     "id": 63,
     "fecha": "2026-06-19",
     "concepto": "Pago Lumitos para casa Ballinas Toques",
-    "monto": 3661.0,
+    "monto": 3661,
     "cat": "Materiales"
   },
   {
     "id": 64,
     "fecha": "2026-06-20",
     "concepto": "PAGO NOMINA ELOY BALLINAS",
-    "monto": 10000.0,
+    "monto": 10000,
     "cat": "Mano de obra"
   },
   {
     "id": 65,
     "fecha": "2026-06-24",
     "concepto": "Pago lumitodo material casa Ballinas Toques",
-    "monto": 297.0,
+    "monto": 297,
     "cat": "Materiales"
   },
   {
     "id": 66,
     "fecha": "2026-06-24",
     "concepto": "RETIRO DE ESCOMBRO CASA BALLINAS",
-    "monto": 1400.0,
+    "monto": 1400,
     "cat": "Mano de obra"
   },
   {
     "id": 67,
     "fecha": "2026-06-27",
     "concepto": "MIKI LE DA A ELOY DE MANO DE OBRA DE BALLINAS",
-    "monto": 5000.0,
+    "monto": 5000,
     "cat": "Mano de obra"
   },
   {
     "id": 68,
     "fecha": "2026-06-29",
     "concepto": "Pago Makarza 3 Lijas Para casa Ballinas Eloy",
-    "monto": 57.0,
+    "monto": 57,
     "cat": "Materiales"
   },
   {
     "id": 69,
     "fecha": "2026-06-29",
     "concepto": "Reyna de los azulejos Para casa Ballinas Eloy",
-    "monto": 208.0,
+    "monto": 208,
     "cat": "Materiales"
   },
   {
     "id": 70,
     "fecha": "2026-06-29",
     "concepto": "Pago Comex para casa Ballinas Eloy",
-    "monto": 1784.0,
+    "monto": 1784,
     "cat": "Materiales"
   },
   {
     "id": 71,
     "fecha": "2026-06-30",
     "concepto": "Pago Torralba ferreteria para casa Ballinas Eloy",
-    "monto": 456.0,
+    "monto": 456,
     "cat": "Materiales"
   },
   {
     "id": 72,
     "fecha": "2026-06-30",
     "concepto": "Pago Fix ferreteria para casa Ballinas Toques",
-    "monto": 384.0,
+    "monto": 384,
     "cat": "Materiales"
   },
   {
     "id": 73,
     "fecha": "2026-06-30",
     "concepto": "Pago ferreteria fortin para casa ballinas Toques",
-    "monto": 270.0,
+    "monto": 270,
     "cat": "Materiales"
   },
   {
     "id": 74,
     "fecha": "2026-07-01",
     "concepto": "Pago Interceramic removedor Para casa Ballinas Eloy",
-    "monto": 726.0,
+    "monto": 726,
     "cat": "Materiales"
   },
   {
     "id": 75,
     "fecha": "2026-07-01",
     "concepto": "Pago Modatelas franela Para Ballinas Eloy",
-    "monto": 40.0,
+    "monto": 40,
     "cat": "Materiales"
   },
   {
     "id": 76,
     "fecha": "2026-07-01",
     "concepto": "Pago Comex para casa Ballinas Eloy",
-    "monto": 1041.0,
+    "monto": 1041,
     "cat": "Materiales"
   },
   {
     "id": 77,
     "fecha": "2026-07-01",
     "concepto": "Ferreteria Ballinas 2 lijas Eloy",
-    "monto": 50.0,
+    "monto": 50,
     "cat": "Materiales"
   },
   {
     "id": 78,
     "fecha": "2026-07-01",
     "concepto": "Pago super Vecino fabuloso para Ballinas Eloy",
-    "monto": 69.0,
+    "monto": 69,
     "cat": "Materiales"
   },
   {
     "id": 79,
     "fecha": "2026-07-02",
     "concepto": "Pago Comex galon pintura para Ballinas Eloy",
-    "monto": 523.0,
+    "monto": 523,
     "cat": "Materiales"
   },
   {
     "id": 80,
     "fecha": "2026-07-02",
     "concepto": "Pago Cerraduras de cordoba Chapas para Ballinas Fide",
-    "monto": 365.0,
+    "monto": 365,
     "cat": "Materiales"
   },
   {
     "id": 81,
     "fecha": "2026-07-02",
     "concepto": "Ferreteria Gomez material para ballinas Elian",
-    "monto": 7870.0,
+    "monto": 7870,
     "cat": "Materiales"
   },
   {
     "id": 82,
     "fecha": "2026-07-02",
     "concepto": "Pago Fix ferreteria lamparas para Ballinas Toques",
-    "monto": 705.0,
+    "monto": 705,
     "cat": "Materiales"
   },
   {
     "id": 83,
     "fecha": "2026-07-03",
     "concepto": "Pago Jobs sellador para ballinas Elian",
-    "monto": 488.0,
+    "monto": 488,
     "cat": "Materiales"
   },
   {
     "id": 84,
     "fecha": "2026-07-03",
     "concepto": "Pago Comex pintura para ballinas Eloy",
-    "monto": 291.0,
+    "monto": 291,
     "cat": "Materiales"
   },
   {
     "id": 85,
     "fecha": "2026-07-04",
     "concepto": "PUERTAS DE MADERA FIDENCIO",
-    "monto": 13500.0,
+    "monto": 13500,
     "cat": "Materiales"
   },
   {
     "id": 86,
     "fecha": "2026-07-04",
     "concepto": "PAGO DEL RESTO DE COSAS PENDIENTES POR HACER DE ELOY",
-    "monto": 12960.0,
+    "monto": 12960,
     "cat": "Mano de obra"
   },
   {
     "id": 87,
     "fecha": "2026-07-07",
     "concepto": "Pago Jobs sellador 5x1 casa Ballinas Elian",
-    "monto": 488.0,
+    "monto": 488,
     "cat": "Materiales"
   },
   {
     "id": 88,
     "fecha": "2026-07-09",
     "concepto": "Pago comex para casa Ballinas Eloy",
-    "monto": 146.0,
+    "monto": 146,
     "cat": "Materiales"
   },
   {
     "id": 89,
     "fecha": "2026-07-11",
     "concepto": "Pago ferreteria Gomez material Ballinas Elian",
-    "monto": 1409.0,
+    "monto": 1409,
     "cat": "Materiales"
   },
   {
     "id": 90,
     "fecha": "2026-07-11",
     "concepto": "Pago ferreteria Gomez Lavadero Ballinas Elian",
-    "monto": 800.0,
+    "monto": 800,
     "cat": "Materiales"
   },
   {
     "id": 91,
     "fecha": "2026-07-11",
     "concepto": "Le doy a Elian en casa Ballinas",
-    "monto": 6000.0,
+    "monto": 6000,
     "cat": "Mano de obra"
+  },
+  {
+    "id": 92,
+    "fecha": "2026-07-17",
+    "concepto": "SACAR COPIA DE PUERTA DE ATRAS",
+    "monto": 200,
+    "cat": "Materiales"
   }
 ]
