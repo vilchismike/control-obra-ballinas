@@ -879,5 +879,12 @@
     "concepto": "Impresion de alineamiento para contrato agua ballinas",
     "monto": 8,
     "cat": "Permisos/Tramites"
+  },
+  {
+    "id": 113,
+    "fecha": "2026-08-14",
+    "concepto": "Pago a Puyol por compostura puerta Ballinas - por descuadre",
+    "monto": 850,
+    "cat": "Mano de obra"
   }
 ]
