@@ -851,5 +851,12 @@
     "concepto": "Impresion para Contrato agua Ballinas Urdaneta",
     "monto": 20,
     "cat": "Permisos/Tramites"
+  },
+  {
+    "id": 109,
+    "fecha": "2026-08-06",
+    "concepto": "Pago Com. de Agua contrato agua Ballinas Urdaneta",
+    "monto": 16174,
+    "cat": "Permisos/Tramites"
   }
 ]
