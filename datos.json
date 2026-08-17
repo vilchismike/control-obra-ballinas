@@ -837,5 +837,12 @@
     "concepto": "Impresion para tramite Urdaneta camb. dom CFE",
     "monto": 116,
     "cat": "Permisos/Tramites"
+  },
+  {
+    "id": 107,
+    "fecha": "2026-08-06",
+    "concepto": "Abono CFE Casa Ballinas Javier Urdaneta",
+    "monto": 10,
+    "cat": "Permisos/Tramites"
   }
 ]
