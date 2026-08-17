@@ -762,5 +762,12 @@
     "concepto": "Impresion de escrituras Ballinas Javier Urdaneta",
     "monto": 88,
     "cat": "Permisos/Tramites"
+  },
+  {
+    "id": 97,
+    "fecha": "2026-07-22",
+    "concepto": "4 copias escrituras Ballinas Javier Urdaneta",
+    "monto": 176,
+    "cat": "Permisos/Tramites"
   }
 ]
