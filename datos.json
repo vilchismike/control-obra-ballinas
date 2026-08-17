@@ -886,5 +886,12 @@
     "concepto": "Pago a Puyol por compostura puerta Ballinas - por descuadre",
     "monto": 850,
     "cat": "Mano de obra"
+  },
+  {
+    "id": 114,
+    "fecha": "2026-08-17",
+    "concepto": "Moche para no pagar 90,000 de adeudo de agua, vicio oculto en lote",
+    "monto": 15000,
+    "cat": "Vicios Ocultos"
   }
 ]
