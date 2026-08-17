@@ -781,5 +781,12 @@
     "concepto": "Le doy a Elian por Pago de flete de escombro Ballinas",
     "monto": 1000,
     "cat": "Mano de obra"
+  },
+  {
+    "id": 99,
+    "fecha": "2026-07-22",
+    "concepto": "Ferreteria Ballinas Cespol, tapon y silicon Elian",
+    "monto": 123,
+    "cat": "Materiales"
   }
 ]
