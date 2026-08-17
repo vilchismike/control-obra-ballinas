@@ -872,5 +872,12 @@
     "concepto": "Pago Pal. Mpal. Fortin Limpia Pública Ballinas Urdaneta",
     "monto": 248,
     "cat": "Permisos/Tramites"
+  },
+  {
+    "id": 112,
+    "fecha": "2026-08-06",
+    "concepto": "Impresion de alineamiento para contrato agua ballinas",
+    "monto": 8,
+    "cat": "Permisos/Tramites"
   }
 ]
