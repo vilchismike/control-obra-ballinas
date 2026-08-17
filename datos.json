@@ -830,5 +830,12 @@
     "concepto": "Cerrajero llaves Sn. Nicolas - por perdida de llaves de interior",
     "monto": 450,
     "cat": "Vicios Ocultos"
+  },
+  {
+    "id": 106,
+    "fecha": "2026-08-05",
+    "concepto": "Impresion para tramite Urdaneta camb. dom CFE",
+    "monto": 116,
+    "cat": "Permisos/Tramites"
   }
 ]
