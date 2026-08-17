@@ -741,5 +741,12 @@
     "concepto": "RAFA LE DA A ELIAN EN BALLINAS",
     "monto": 4000,
     "cat": "Mano de obra"
+  },
+  {
+    "id": 94,
+    "fecha": "2026-07-21",
+    "concepto": "Ferreteria Ballinas Grava para patio trasero casa Ballinas",
+    "monto": 1800,
+    "cat": "Materiales"
   }
 ]
