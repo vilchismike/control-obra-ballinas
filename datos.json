@@ -774,5 +774,12 @@
     "monto": 176,
     "cat": "Permisos/Tramites",
     "editing": false
+  },
+  {
+    "id": 98,
+    "fecha": "2026-07-22",
+    "concepto": "Le doy a Elian por Pago de flete de escombro Ballinas",
+    "monto": 1000,
+    "cat": "Mano de obra"
   }
 ]
