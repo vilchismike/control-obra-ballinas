@@ -740,34 +740,39 @@
     "fecha": "2026-07-18",
     "concepto": "RAFA LE DA A ELIAN EN BALLINAS",
     "monto": 4000,
-    "cat": "Mano de obra"
+    "cat": "Mano de obra",
+    "editing": false
   },
   {
     "id": 94,
     "fecha": "2026-07-21",
     "concepto": "Ferreteria Ballinas Grava para patio trasero casa Ballinas",
     "monto": 1800,
-    "cat": "Materiales"
+    "cat": "Materiales",
+    "editing": false
   },
   {
     "id": 95,
     "fecha": "2026-07-22",
     "concepto": "Escaneo escrituras Ballinas Javier Urdaneta",
     "monto": 66,
-    "cat": "Permisos/Tramites"
+    "cat": "Permisos/Tramites",
+    "editing": false
   },
   {
     "id": 96,
-    "fecha": "2026-08-22",
+    "fecha": "2026-07-22",
     "concepto": "Impresion de escrituras Ballinas Javier Urdaneta",
     "monto": 88,
-    "cat": "Permisos/Tramites"
+    "cat": "Permisos/Tramites",
+    "editing": false
   },
   {
     "id": 97,
     "fecha": "2026-07-22",
     "concepto": "4 copias escrituras Ballinas Javier Urdaneta",
     "monto": 176,
-    "cat": "Permisos/Tramites"
+    "cat": "Permisos/Tramites",
+    "editing": false
   }
 ]
