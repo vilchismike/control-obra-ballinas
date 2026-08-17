@@ -795,5 +795,12 @@
     "concepto": "Ferreteria Ballinas teflón y adaptador Elian",
     "monto": 20,
     "cat": "Materiales"
+  },
+  {
+    "id": 101,
+    "fecha": "2026-07-24",
+    "concepto": "Impresion doctos para CFE cambio nombre Urdaneta",
+    "monto": 136,
+    "cat": "Permisos/Tramites"
   }
 ]
