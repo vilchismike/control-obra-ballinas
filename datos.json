@@ -809,5 +809,12 @@
     "concepto": "Pago luz casa Ballinas Javier Urdaneta",
     "monto": 65,
     "cat": "Permisos/Tramites"
+  },
+  {
+    "id": 103,
+    "fecha": "2026-07-25",
+    "concepto": "Le Pago a Elian en Ballinas",
+    "monto": 4840,
+    "cat": "Mano de obra"
   }
 ]
