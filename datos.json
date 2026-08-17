@@ -755,5 +755,12 @@
     "concepto": "Escaneo escrituras Ballinas Javier Urdaneta",
     "monto": 66,
     "cat": "Permisos/Tramites"
+  },
+  {
+    "id": 96,
+    "fecha": "2026-08-22",
+    "concepto": "Impresion de escrituras Ballinas Javier Urdaneta",
+    "monto": 88,
+    "cat": "Permisos/Tramites"
   }
 ]
