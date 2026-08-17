@@ -844,5 +844,12 @@
     "concepto": "Abono CFE Casa Ballinas Javier Urdaneta",
     "monto": 10,
     "cat": "Permisos/Tramites"
+  },
+  {
+    "id": 108,
+    "fecha": "2026-08-06",
+    "concepto": "Impresion para Contrato agua Ballinas Urdaneta",
+    "monto": 20,
+    "cat": "Permisos/Tramites"
   }
 ]
