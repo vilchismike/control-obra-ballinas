@@ -816,5 +816,12 @@
     "concepto": "Le Pago a Elian en Ballinas",
     "monto": 4840,
     "cat": "Mano de obra"
+  },
+  {
+    "id": 104,
+    "fecha": "2026-08-03",
+    "concepto": "MOCHE PARA REIMPRIMIR PREDIAL Y LIMPIA A NOMBRE DE JAVIER URDANETA",
+    "monto": 2000,
+    "cat": "Vicios Ocultos"
   }
 ]
