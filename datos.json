@@ -788,5 +788,12 @@
     "concepto": "Ferreteria Ballinas Cespol, tapon y silicon Elian",
     "monto": 123,
     "cat": "Materiales"
+  },
+  {
+    "id": 100,
+    "fecha": "2026-07-22",
+    "concepto": "Ferreteria Ballinas teflón y adaptador Elian",
+    "monto": 20,
+    "cat": "Materiales"
   }
 ]
