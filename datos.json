@@ -802,5 +802,12 @@
     "concepto": "Impresion doctos para CFE cambio nombre Urdaneta",
     "monto": 136,
     "cat": "Permisos/Tramites"
+  },
+  {
+    "id": 102,
+    "fecha": "2026-07-24",
+    "concepto": "Pago luz casa Ballinas Javier Urdaneta",
+    "monto": 65,
+    "cat": "Permisos/Tramites"
   }
 ]
