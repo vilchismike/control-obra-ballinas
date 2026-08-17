@@ -748,5 +748,12 @@
     "concepto": "Ferreteria Ballinas Grava para patio trasero casa Ballinas",
     "monto": 1800,
     "cat": "Materiales"
+  },
+  {
+    "id": 95,
+    "fecha": "2026-07-22",
+    "concepto": "Escaneo escrituras Ballinas Javier Urdaneta",
+    "monto": 66,
+    "cat": "Permisos/Tramites"
   }
 ]
