@@ -865,5 +865,12 @@
     "concepto": "Pago Pal. Mpal. Fortin Predial Ballinas Urdaneta",
     "monto": 198,
     "cat": "Permisos/Tramites"
+  },
+  {
+    "id": 111,
+    "fecha": "2026-08-06",
+    "concepto": "Pago Pal. Mpal. Fortin Limpia Pública Ballinas Urdaneta",
+    "monto": 248,
+    "cat": "Permisos/Tramites"
   }
 ]
