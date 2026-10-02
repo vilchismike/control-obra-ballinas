@@ -893,5 +893,12 @@
     "concepto": "Moche para no pagar 90,000 de adeudo de agua, vicio oculto en lote",
     "monto": 15000,
     "cat": "Vicios Ocultos"
+  },
+  {
+    "id": 115,
+    "fecha": "2026-10-26",
+    "concepto": "Le doy a Pablo pago de boiler casa ballinas",
+    "monto": 2909,
+    "cat": "Materiales"
   }
 ]
