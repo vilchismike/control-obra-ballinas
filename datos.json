@@ -780,132 +780,151 @@
     "fecha": "2026-07-22",
     "concepto": "Le doy a Elian por Pago de flete de escombro Ballinas",
     "monto": 1000,
-    "cat": "Mano de obra"
+    "cat": "Mano de obra",
+    "editing": false
   },
   {
     "id": 99,
     "fecha": "2026-07-22",
     "concepto": "Ferreteria Ballinas Cespol, tapon y silicon Elian",
     "monto": 123,
-    "cat": "Materiales"
+    "cat": "Materiales",
+    "editing": false
   },
   {
     "id": 100,
     "fecha": "2026-07-22",
     "concepto": "Ferreteria Ballinas teflón y adaptador Elian",
     "monto": 20,
-    "cat": "Materiales"
+    "cat": "Materiales",
+    "editing": false
   },
   {
     "id": 101,
     "fecha": "2026-07-24",
     "concepto": "Impresion doctos para CFE cambio nombre Urdaneta",
     "monto": 136,
-    "cat": "Permisos/Tramites"
+    "cat": "Permisos/Tramites",
+    "editing": false
   },
   {
     "id": 102,
     "fecha": "2026-07-24",
     "concepto": "Pago luz casa Ballinas Javier Urdaneta",
     "monto": 65,
-    "cat": "Permisos/Tramites"
+    "cat": "Permisos/Tramites",
+    "editing": false
   },
   {
     "id": 103,
     "fecha": "2026-07-25",
     "concepto": "Le Pago a Elian en Ballinas",
     "monto": 4840,
-    "cat": "Mano de obra"
+    "cat": "Mano de obra",
+    "editing": false
   },
   {
     "id": 104,
     "fecha": "2026-08-03",
     "concepto": "MOCHE PARA REIMPRIMIR PREDIAL Y LIMPIA A NOMBRE DE JAVIER URDANETA",
     "monto": 2000,
-    "cat": "Vicios Ocultos"
+    "cat": "Vicios Ocultos",
+    "editing": false
   },
   {
     "id": 105,
     "fecha": "2026-08-04",
     "concepto": "Cerrajero llaves Sn. Nicolas - por perdida de llaves de interior",
     "monto": 450,
-    "cat": "Vicios Ocultos"
+    "cat": "Vicios Ocultos",
+    "editing": false
   },
   {
     "id": 106,
     "fecha": "2026-08-05",
     "concepto": "Impresion para tramite Urdaneta camb. dom CFE",
     "monto": 116,
-    "cat": "Permisos/Tramites"
+    "cat": "Permisos/Tramites",
+    "editing": false
   },
   {
     "id": 107,
     "fecha": "2026-08-06",
     "concepto": "Abono CFE Casa Ballinas Javier Urdaneta",
     "monto": 10,
-    "cat": "Permisos/Tramites"
+    "cat": "Permisos/Tramites",
+    "editing": false
   },
   {
     "id": 108,
     "fecha": "2026-08-06",
     "concepto": "Impresion para Contrato agua Ballinas Urdaneta",
     "monto": 20,
-    "cat": "Permisos/Tramites"
+    "cat": "Permisos/Tramites",
+    "editing": false
   },
   {
     "id": 109,
     "fecha": "2026-08-06",
     "concepto": "Pago Com. de Agua contrato agua Ballinas Urdaneta",
     "monto": 16174,
-    "cat": "Permisos/Tramites"
+    "cat": "Permisos/Tramites",
+    "editing": false
   },
   {
     "id": 110,
     "fecha": "2026-08-06",
     "concepto": "Pago Pal. Mpal. Fortin Predial Ballinas Urdaneta",
     "monto": 198,
-    "cat": "Permisos/Tramites"
+    "cat": "Permisos/Tramites",
+    "editing": false
   },
   {
     "id": 111,
     "fecha": "2026-08-06",
     "concepto": "Pago Pal. Mpal. Fortin Limpia Pública Ballinas Urdaneta",
     "monto": 248,
-    "cat": "Permisos/Tramites"
+    "cat": "Permisos/Tramites",
+    "editing": false
   },
   {
     "id": 112,
     "fecha": "2026-08-06",
     "concepto": "Impresion de alineamiento para contrato agua ballinas",
     "monto": 8,
-    "cat": "Permisos/Tramites"
+    "cat": "Permisos/Tramites",
+    "editing": false
   },
   {
     "id": 113,
     "fecha": "2026-08-14",
     "concepto": "Pago a Puyol por compostura puerta Ballinas - por descuadre",
     "monto": 850,
-    "cat": "Mano de obra"
+    "cat": "Mano de obra",
+    "editing": false
   },
   {
     "id": 114,
     "fecha": "2026-08-17",
     "concepto": "Moche para no pagar 90,000 de adeudo de agua, vicio oculto en lote",
     "monto": 15000,
-    "cat": "Vicios Ocultos"
+    "cat": "Vicios Ocultos",
+    "editing": false
   },
   {
     "id": 115,
-    "fecha": "2026-10-26",
+    "fecha": "2026-08-26",
     "concepto": "Le doy a Pablo pago de boiler casa ballinas",
     "monto": 2909,
-    "cat": "Materiales"
+    "cat": "Materiales",
+    "editing": false
   },
   {
     "id": 116,
     "fecha": "2026-10-10",
     "concepto": "Pago CFE casa Ballinas con reconexión",
     "monto": 361,
-    "cat": "Permisos/Tramites"
+    "cat": "Permisos/Tramites",
+    "editing": false
   }
 ]
