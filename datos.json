@@ -900,5 +900,12 @@
     "concepto": "Le doy a Pablo pago de boiler casa ballinas",
     "monto": 2909,
     "cat": "Materiales"
+  },
+  {
+    "id": 116,
+    "fecha": "2026-10-10",
+    "concepto": "Pago CFE casa Ballinas con reconexión",
+    "monto": 361,
+    "cat": "Permisos/Tramites"
   }
 ]
