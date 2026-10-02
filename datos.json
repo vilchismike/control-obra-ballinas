@@ -932,41 +932,47 @@
     "fecha": "2026-09-14",
     "concepto": "Pago Sist. agua Fortin No adeudo casa Ballinas",
     "monto": 179,
-    "cat": "Permisos/Tramites"
+    "cat": "Permisos/Tramites",
+    "editing": false
   },
   {
     "id": 118,
     "fecha": "2026-09-14",
     "concepto": "Pago Sist.agua Fortin Recibo agua Ballinas",
     "monto": 11,
-    "cat": "Permisos/Tramites"
+    "cat": "Permisos/Tramites",
+    "editing": false
   },
   {
     "id": 119,
     "fecha": "2026-10-01",
     "concepto": "Impresiones tramite No adeudo agua Urdaneta Ballinas",
     "monto": 89,
-    "cat": "Permisos/Tramites"
+    "cat": "Permisos/Tramites",
+    "editing": false
   },
   {
     "id": 120,
     "fecha": "2026-10-01",
     "concepto": "Reimpresion de recibo de agua Urdaneta Ballinas",
     "monto": 11,
-    "cat": "Permisos/Tramites"
+    "cat": "Permisos/Tramites",
+    "editing": false
   },
   {
     "id": 121,
     "fecha": "2026-10-01",
     "concepto": "Pago agua Javier Urdaneta casa ballinas",
     "monto": 103,
-    "cat": "Permisos/Tramites"
+    "cat": "Permisos/Tramites",
+    "editing": false
   },
   {
     "id": 122,
     "fecha": "2026-10-01",
     "concepto": "Pago Cons. No Adeudo Javier Urdaneta casa Ballinas",
-    "monto": 103,
-    "cat": "Permisos/Tramites"
+    "monto": 179,
+    "cat": "Permisos/Tramites",
+    "editing": false
   }
 ]
