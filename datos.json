@@ -961,5 +961,12 @@
     "concepto": "Pago agua Javier Urdaneta casa ballinas",
     "monto": 103,
     "cat": "Permisos/Tramites"
+  },
+  {
+    "id": 122,
+    "fecha": "2026-10-01",
+    "concepto": "Pago Cons. No Adeudo Javier Urdaneta casa Ballinas",
+    "monto": 103,
+    "cat": "Permisos/Tramites"
   }
 ]
