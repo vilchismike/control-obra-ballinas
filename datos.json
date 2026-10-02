@@ -954,5 +954,12 @@
     "concepto": "Reimpresion de recibo de agua Urdaneta Ballinas",
     "monto": 11,
     "cat": "Permisos/Tramites"
+  },
+  {
+    "id": 121,
+    "fecha": "2026-10-01",
+    "concepto": "Pago agua Javier Urdaneta casa ballinas",
+    "monto": 103,
+    "cat": "Permisos/Tramites"
   }
 ]
