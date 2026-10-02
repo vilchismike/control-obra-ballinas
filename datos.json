@@ -947,5 +947,12 @@
     "concepto": "Impresiones tramite No adeudo agua Urdaneta Ballinas",
     "monto": 89,
     "cat": "Permisos/Tramites"
+  },
+  {
+    "id": 120,
+    "fecha": "2026-10-01",
+    "concepto": "Reimpresion de recibo de agua Urdaneta Ballinas",
+    "monto": 11,
+    "cat": "Permisos/Tramites"
   }
 ]
