@@ -940,5 +940,12 @@
     "concepto": "Pago Sist.agua Fortin Recibo agua Ballinas",
     "monto": 11,
     "cat": "Permisos/Tramites"
+  },
+  {
+    "id": 119,
+    "fecha": "2026-10-01",
+    "concepto": "Impresiones tramite No adeudo agua Urdaneta Ballinas",
+    "monto": 89,
+    "cat": "Permisos/Tramites"
   }
 ]
