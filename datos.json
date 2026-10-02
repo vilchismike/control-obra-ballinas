@@ -926,5 +926,12 @@
     "monto": 361,
     "cat": "Permisos/Tramites",
     "editing": false
+  },
+  {
+    "id": 117,
+    "fecha": "2026-09-14",
+    "concepto": "Pago Sist. agua Fortin No adeudo casa Ballinas",
+    "monto": 179,
+    "cat": "Permisos/Tramites"
   }
 ]
