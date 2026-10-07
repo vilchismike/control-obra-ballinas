@@ -988,5 +988,12 @@
     "concepto": "Pal. Mpal.constancia de no adeudo Ballinas Urdaneta",
     "monto": 129,
     "cat": "Permisos/Tramites"
+  },
+  {
+    "id": 125,
+    "fecha": "2026-10-06",
+    "concepto": "Pago de ISR",
+    "monto": 9500,
+    "cat": "Permisos/Tramites"
   }
 ]
