@@ -995,5 +995,12 @@
     "concepto": "Pago de ISR",
     "monto": 9500,
     "cat": "Permisos/Tramites"
+  },
+  {
+    "id": 126,
+    "fecha": "2026-10-06",
+    "concepto": "Avalúo de mejoras para bajarle al pago de ISR",
+    "monto": 3500,
+    "cat": "Permisos/Tramites"
   }
 ]
