@@ -1009,5 +1009,12 @@
     "concepto": "Manifestación de construcción",
     "monto": 8500,
     "cat": "Permisos/Tramites"
+  },
+  {
+    "id": 128,
+    "fecha": "2026-10-06",
+    "concepto": "Pago para licenciada apresurar tramite en notaria",
+    "monto": 1000,
+    "cat": "Permisos/Tramites"
   }
 ]
