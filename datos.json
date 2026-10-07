@@ -974,5 +974,12 @@
     "monto": 179,
     "cat": "Permisos/Tramites",
     "editing": false
+  },
+  {
+    "id": 123,
+    "fecha": "2026-10-02",
+    "concepto": "Pago expres Reg. Pub. Aviso Prev. casa ballinas Urdaneta",
+    "monto": 500,
+    "cat": "Permisos/Tramites"
   }
 ]
